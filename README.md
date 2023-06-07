@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pedronp_avila@yahoo.com.br**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pedro-aavila/]([https://www.linkedin.com/in/pedro-aavila/](https://www.linkedin.com/in/pedro-aavila/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/pedro-aavila/](https://www.linkedin.com/in/pedro-aavila/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
