@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Ávila</h1>
 <h3 align="center">A passionate Technology, Process and Data Engineer</h3>
 
-- 🌱 I’m currently learning **Python and Synapse Analytics**
+- 🌱 I’m currently learning **Python, Spark, Google Cloud Platform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroAvilaPaiDaManu](https://github.com/PedroAvilaPaiDaManu)
 
